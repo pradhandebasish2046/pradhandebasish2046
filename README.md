@@ -1,5 +1,3 @@
-![logo](https://github.com/pradhandebasish2046/pradhandebasish2046/blob/main/1696922230023.jpeg)
-
 <h1 align="center">Hi 👋, I'm Debasish Pradhan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
